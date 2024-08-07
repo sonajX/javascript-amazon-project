@@ -78,6 +78,16 @@ document.querySelectorAll('.js-add-to-cart')
         })
       }
 
-      console.log(cart);
+
+      //Code to add product quantity to the element cart-quantity 
+      let productQuantity = 0;
+
+      cart.forEach((item) => {
+        productQuantity += item.quantity;
+      });
+      //Everytime button is pressed, cart quantity is updated
+      document.querySelector('.js-cart-quantity')
+        .innerHTML = productQuantity;
+        
     })
   });
