@@ -29,7 +29,7 @@ cart.forEach((cartItem) => {
             ${matchingItem.name}
           </div>
           <div class="product-price">
-            $${(matchingItem.price / 100).toFixed(2)}
+            $${(matchingItem.priceCents / 100).toFixed(2)}
           </div>
           <div class="product-quantity">
             <span>
