@@ -120,6 +120,8 @@ export function renderOrderSummary() {
           .querySelector(`.js-cart-item-container-${productId}`);
         
         container.remove();
+
+        renderPaymentSummary();
       })
     });
 
