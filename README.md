@@ -4,7 +4,7 @@ This is a clone of Amazon. Albeit incomplete, it offers a comprehensive learning
 
 The project consists of JavaScript lessons from syntaxes to testing external libraries and frameworks using Jasmine.
 This course also taught me how to use the JSON file format.
-This course also features how to send and get a request/response to a back end server, from [supersimple](https://supersimplebackend.dev/) using the API.|
+This course also features how to send and get a request/response to a back end server, from [supersimple](https://supersimplebackend.dev/) using the API.
 
 
 I thank Simon @SuperSimpleDev for making this course absolutely free, you can also gwatch his other videos like putting a website in the internet and full HTML+CSS course for free
