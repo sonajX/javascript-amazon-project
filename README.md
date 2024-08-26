@@ -7,5 +7,5 @@ This course also taught me how to use the JSON file format.
 This course also features how to send and get a request/response to a back end server, from [supersimple](https://supersimplebackend.dev/) using the API.
 
 
-I thank Simon @SuperSimpleDev for making this course absolutely free, you can also gwatch his other videos like putting a website in the internet and full HTML+CSS course for free
+I thank Simon @SuperSimpleDev for making this course absolutely free, you can also watch his other videos like putting up a website in the internet and full HTML+CSS course for free
 https://www.youtube.com/@SuperSimpleDev
